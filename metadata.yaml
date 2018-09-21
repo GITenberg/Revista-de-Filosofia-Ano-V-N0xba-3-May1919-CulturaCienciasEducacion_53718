@@ -1,0 +1,38 @@
+_repo: Revista-de-Filosofia-Ano-V-N0xba-3-May1919-CulturaCienciasEducacion_53718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Ingenieros, José
+    aliases:
+    - Ingegnieri, Giuseppe
+    - Ingegnieros, José
+    - Ingegnieros, Giuseppe
+    - Ingenieros, Jose
+    - Ingegnieros, Joseph
+    birthdate: 1877
+    deathdate: 1925
+    gutenberg_agent_id: '47499'
+    url: http://www.gutenberg.org/2009/agents/47499
+description: ''
+gutenberg_issued: '2016-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53718'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humanities -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Spanish literature -- Periodicals'
+- GITenberg
+title: 'Revista de Filosofía, Año V - Nº 3 - May/1919
+
+  Cultura—Ciencias—Educación'
+url: http://www.gutenberg.org/ebooks/53718
